@@ -1,0 +1,12 @@
+Super simple `Google Contacts Python API`_.
+
+.. _Google Contacts Python API: https://github.com/burnash/gcontact
+
+Features
+--------
+
+* Open a contact by its *title*, *url* or *key*.
+* Select cells by labels, e.g. 'A1'.
+* Extract range, entire row or column values.
+* Independent of Google Data Python client library.
+* Python 3 support.

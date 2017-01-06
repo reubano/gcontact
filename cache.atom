@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed gd:etag="&quot;R3Y9fDVSLyt7I2A9XR5RGU4NQgw.&quot;" xmlns="http://www.w3.org/2005/Atom" xmlns:batch="http://schemas.google.com/gdata/batch" xmlns:gContact="http://schemas.google.com/contact/2008" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/">
+ <id>reubano@gmail.com</id>
+ <updated>2016-12-28T15:06:26.864Z</updated>
+ <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+ <title>Reuben Cummings's Contacts</title>
+ <link rel="alternate" type="text/html" href="https://www.google.com/"/>
+ <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full"/>
+ <link rel="http://schemas.google.com/g/2005#post" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full"/>
+ <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/batch"/>
+ <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full?max-results=4&amp;alt=atom"/>
+ <link rel="next" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full?max-results=4&amp;alt=atom&amp;start-index=5"/>
+ <author>
+  <name>Reuben Cummings</name>
+  <email>reubano@gmail.com</email>
+ </author>
+ <generator version="1.0" uri="http://www.google.com/m8/feeds">Contacts</generator>
+ <openSearch:totalResults>2471</openSearch:totalResults>
+ <openSearch:startIndex>1</openSearch:startIndex>
+ <openSearch:itemsPerPage>4</openSearch:itemsPerPage>
+ <entry gd:etag="&quot;Q388fTVSLit7I2A9XR5RF0kOQgA.&quot;">
+  <id>http://www.google.com/m8/feeds/contacts/reubano%40gmail.com/base/7e06e8a10abb6</id>
+  <updated>2016-12-26T09:29:02.175Z</updated>
+  <app:edited xmlns:app="http://www.w3.org/2007/app">2016-12-26T09:29:02.175Z</app:edited>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title>Tasha McNeill</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/reubano%40gmail.com/7e06e8a10abb6" gd:etag="&quot;UT5bGgsvfCt7I2BKIHVTTQtZB0IdEWUfdy8.&quot;"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/7e06e8a10abb6"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/7e06e8a10abb6"/>
+  <gd:name>
+   <gd:fullName>Tasha McNeill</gd:fullName>
+   <gd:givenName>Tasha</gd:givenName>
+   <gd:familyName>McNeill</gd:familyName>
+  </gd:name>
+  <gd:phoneNumber rel="http://schemas.google.com/g/2005#home" primary="true" uri="tel:+1-309-693-1049">+1 309-693-1049</gd:phoneNumber>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/6"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/65f681eb8d6e97ad"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/e7fd66e8d0dbbbd"/>
+  <gd:extendedProperty name="tag:fullcontact.com,2013:contact/extended#X-FC-ID-79d3af24d87f946bf04da3ba558c8a581ff53afc" value="4ab997d0581894cb188d3126af8c6b7b_goog"/>
+ </entry>
+ <entry gd:etag="&quot;SHg7eTVSLit7I2A9XR5RF0kORAQ.&quot;">
+  <id>http://www.google.com/m8/feeds/contacts/reubano%40gmail.com/base/3019af8cbd9f4c</id>
+  <updated>2016-12-26T09:25:09.601Z</updated>
+  <app:edited xmlns:app="http://www.w3.org/2007/app">2016-12-26T09:25:09.601Z</app:edited>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title>Rispa Arusha</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/reubano%40gmail.com/3019af8cbd9f4c" gd:etag="&quot;SzlhEVQbSit7I2BWUEdVaTx4T2Y5Jj0fV1E.&quot;"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/3019af8cbd9f4c"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/3019af8cbd9f4c"/>
+  <gd:name>
+   <gd:fullName>Rispa Arusha</gd:fullName>
+   <gd:givenName>Rispa</gd:givenName>
+   <gd:familyName>Arusha</gd:familyName>
+  </gd:name>
+  <gd:phoneNumber label="safaricom" uri="tel:+254-717-560108">+254 717560108</gd:phoneNumber>
+  <gd:phoneNumber label="voda" primary="true" uri="tel:+255-755-228-099">+255 755228099</gd:phoneNumber>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/6"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/65f681eb8d6e97ad"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/e7fd66e8d0dbbbd"/>
+  <gd:extendedProperty name="tag:fullcontact.com,2013:contact/extended#X-FC-ID-79d3af24d87f946bf04da3ba558c8a581ff53afc" value="221827ba6d4e8480b095dafa871c22b7_goog"/>
+ </entry>
+ <entry gd:etag="&quot;SHg7fjVSLit7I2A9XR5RFkoLQQ0.&quot;">
+  <id>http://www.google.com/m8/feeds/contacts/reubano%40gmail.com/base/3be5d58a4f8cb2</id>
+  <updated>2016-12-25T13:14:59.606Z</updated>
+  <app:edited xmlns:app="http://www.w3.org/2007/app">2016-12-25T13:14:59.606Z</app:edited>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title>benje williams</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/reubano%40gmail.com/3be5d58a4f8cb2" gd:etag="&quot;Uio0FEJIfCt7I2BFGERWWRZMRH0bNll9QyU.&quot;"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/3be5d58a4f8cb2"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/3be5d58a4f8cb2"/>
+  <gd:name>
+   <gd:fullName>benje williams</gd:fullName>
+   <gd:givenName>benje</gd:givenName>
+   <gd:familyName>williams</gd:familyName>
+  </gd:name>
+  <gContact:gender value="male"/>
+  <gd:organization rel="http://schemas.google.com/g/2005#other" primary="true">
+   <gd:orgName>Amal Academy</gd:orgName>
+   <gd:orgTitle>Cofounder, CEO</gd:orgTitle>
+  </gd:organization>
+  <gd:email label="Internet Email" address="benje.williams@gmail.com" primary="true"/>
+  <gd:structuredPostalAddress rel="http://schemas.google.com/g/2005#home" primary="true">
+   <gd:formattedAddress>lahore, pakistan</gd:formattedAddress>
+   <gd:city>lahore</gd:city>
+   <gd:region>pakistan</gd:region>
+  </gd:structuredPostalAddress>
+  <gContact:website href="https://twitter.com/benjewilliams" primary="true" label="Twitter"/>
+  <gContact:website href="https://www.linkedin.com/in/benjewilliams" label="LinkedIn"/>
+  <gContact:website href="https://www.facebook.com/benje.williams" label="Facebook"/>
+  <gContact:website href="http://klout.com/benjewilliams" label="Klout"/>
+  <gContact:website href="http://vimeo.com/user9913322" label="Vimeo"/>
+  <gContact:website href="https://www.flickr.com/people/benje.williams" label="Flickr"/>
+  <gContact:website href="https://gravatar.com/communitytransformers" label="Gravatar"/>
+  <gContact:website href="http://t.co/tauoE4rmTH" rel="other"/>
+  <gContact:website href="http://amalacademy.org" rel="other"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/3a75322a0a0d6d15"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/60d04bf78fbd9a61"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/6"/>
+  <gd:extendedProperty name="tag:fullcontact.com,2013:contact/extended#X-FC-ID-79d3af24d87f946bf04da3ba558c8a581ff53afc" value="d6dfe5a79cc06b2deec057d7792cb74a719781ce"/>
+ </entry>
+ <entry gd:etag="&quot;SX8_fDVSLit7I2A9XR5RFkoLTg0.&quot;">
+  <id>http://www.google.com/m8/feeds/contacts/reubano%40gmail.com/base/41dae00cde2a22</id>
+  <updated>2016-12-25T13:19:58.144Z</updated>
+  <app:edited xmlns:app="http://www.w3.org/2007/app">2016-12-25T13:19:58.144Z</app:edited>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://schemas.google.com/contact/2008#contact"/>
+  <title>Marcina Lee</title>
+  <link rel="http://schemas.google.com/contacts/2008/rel#photo" type="image/*" href="https://www.google.com/m8/feeds/photos/media/reubano%40gmail.com/41dae00cde2a22" gd:etag="&quot;WhlINwEefCt7I2BNPEUFZTVVFWdCL1sBTTU.&quot;"/>
+  <link rel="self" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/41dae00cde2a22"/>
+  <link rel="edit" type="application/atom+xml" href="https://www.google.com/m8/feeds/contacts/reubano%40gmail.com/full/41dae00cde2a22"/>
+  <gd:name>
+   <gd:fullName>Marcina Lee</gd:fullName>
+   <gd:givenName>Marcina</gd:givenName>
+   <gd:familyName>Lee</gd:familyName>
+  </gd:name>
+  <gContact:gender value="female"/>
+  <gd:email rel="http://schemas.google.com/g/2005#home" address="marcy.lee@psd150.org" primary="true"/>
+  <gContact:website href="https://www.facebook.com/marcina.lee.9" primary="true" label="Facebook"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/4cba15c98a9f6b36"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/65f681eb8d6e97ad"/>
+  <gContact:groupMembershipInfo deleted="false" href="http://www.google.com/m8/feeds/groups/reubano%40gmail.com/base/6"/>
+  <gd:extendedProperty name="tag:fullcontact.com,2013:contact/extended#X-FC-ID-79d3af24d87f946bf04da3ba558c8a581ff53afc" value="f43cd5b66d60a7e1df9b954dd057a6769e047934"/>
+ </entry>
+</feed>

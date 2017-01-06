@@ -1,0 +1,10 @@
+*.pyc
+tests/tests.config
+tests/creds.json
+
+# virtualenv
+env/
+
+# tox testrunner support
+.tox/
+gcontact.egg-info/
